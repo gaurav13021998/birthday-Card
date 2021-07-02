@@ -4,21 +4,21 @@ export default [
     name: 'Ankit Anand',
     age: 21,
     image:
-      '/ankit.jpeg',
+      'ankit.jpeg',
   },
   {
     id: 2,
     name: 'Avinash Singh',
     age: 20,
     image:
-      '/Avinash.jpeg',
+      'Avinash.jpeg',
   },
   {
     id: 3,
     name: 'Vipul Pathak',
     age: 22,
     image:
-      '/Vipul.jpeg',
+      'Vipul.jpeg',
   },
   {
     id: 4,
