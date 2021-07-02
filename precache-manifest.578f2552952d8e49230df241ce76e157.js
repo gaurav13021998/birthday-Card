@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7865f11ab08f92a2ba3c9b9e5f0d6ab",
+    "revision": "a2c867139733137a9253ee3f39cb01f8",
     "url": "/birthday-Card/index.html"
   },
   {
-    "revision": "0818c926afe9bced13e0",
+    "revision": "952d1efeaddf61d7f230",
     "url": "/birthday-Card/static/css/main.a25574c1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/birthday-Card/static/js/2.1f771bf1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0818c926afe9bced13e0",
-    "url": "/birthday-Card/static/js/main.ea2a6242.chunk.js"
+    "revision": "952d1efeaddf61d7f230",
+    "url": "/birthday-Card/static/js/main.4b9eb89e.chunk.js"
   },
   {
     "revision": "040e21d5e35cec2cd4bf",
